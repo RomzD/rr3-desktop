@@ -3,7 +3,7 @@ import * as fs from 'fs';
 
 XLSX.set_fs(fs);
 
-const FILE_FORMAT = 'js'
+const FILE_FORMAT = 'ts'
 
 export async function fetchFile(URL) {
     try {
