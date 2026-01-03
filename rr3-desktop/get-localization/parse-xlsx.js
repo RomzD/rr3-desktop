@@ -3,7 +3,7 @@ import * as path from 'path';
 
 const FILE_URL = 'https://docs.google.com/spreadsheets/d/1xYlNRC6FKKo0AT9SlyJm18WWthPLmEa7O9GqtjbVi4s/export?format=xlsx';
 const KEY_HEADER = 'KEY';
-const DIR = path.join('../', 'vue-project/', 'locales/');
+const DIR = path.join('../', 'src/', 'locales/');
 console.log('ENTER ->', DIR);
 
 Main();

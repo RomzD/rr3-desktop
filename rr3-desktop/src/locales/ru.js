@@ -1,0 +1,1 @@
+export const ru={"bikes":{"title":"Мотоциклы"},"common":{"langauge":"Язык","theme":"Тема","themeLight":"Светлая","themeDark":"Темная"}}

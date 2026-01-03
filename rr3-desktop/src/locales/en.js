@@ -1,0 +1,1 @@
+export const en={"bikes":{"title":"Bikes"},"common":{"langauge":"Language","theme":"Theme","themeLight":"Light","themeDark":"Dark"}}
